@@ -125,6 +125,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-	programmer_hash[:dennis_ritchie][:languages] = ["Assembly", "COBOL", "FORTRAN"]
+	programmer_hash[:dennis_ritchie][:languages] = ["COBOL", "Assembly",  "FORTRAN"]
 	programmer_hash
 end
